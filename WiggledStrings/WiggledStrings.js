@@ -15,3 +15,4 @@ function wiggleString(str) {
 			num = num + 1;
         }
 }
+}
